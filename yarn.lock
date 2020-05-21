@@ -2397,10 +2397,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@yuankui/mindmap@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@yuankui/mindmap/-/mindmap-0.1.2.tgz#d80cd0316f7cb9668d73eb3f41fdc239003d5464"
-  integrity sha512-nKxwlInGgKl1z0eSJK+Md8Wd092KV4oTBW4PltTFzv+uaKRWNyEzpY4Y4cqr9wpKijhBFweaBckI+YWe6Bdo8A==
+"@yuankui/mindmap@^0.1.7":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@yuankui/mindmap/-/mindmap-0.1.7.tgz#bac473f086b6f40492a6e34cc569b53152f091d8"
+  integrity sha512-NPHQ70h0i/Rm/vcS6BdoujFkdBBki3Lq+ViU+u6SxqDyDgmLt5DrDVo7xf9BWJgTd+fZFn/ICykEyB7cozMM6w==
   dependencies:
     is-hotkey "npm:@yuankui/is-hotkey@^0.1.6"
     lodash "^4.17.15"

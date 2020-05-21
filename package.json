@@ -7,13 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "s": "start-storybook -p 6006",
+    "build": "build-storybook",
+    "b": "build-storybook",
     "build-storybook": "build-storybook"
   },
   "keywords": [],
   "author": "yuankui <yuankui64@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@yuankui/mindmap": "^0.1.2"
+    "@yuankui/mindmap": "^0.1.7"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
