@@ -13,7 +13,7 @@
   "author": "yuankui <yuankui64@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@yuankui/mindmap": "^0.1.0"
+    "@yuankui/mindmap": "^0.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
